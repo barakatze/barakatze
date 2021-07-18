@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @barakatze
+- 👀 I’m interested in Linux, Operating systems, C++, Python, Java, web development, app development, etc....
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+barakatze/barakatze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
